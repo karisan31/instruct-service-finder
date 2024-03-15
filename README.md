@@ -66,7 +66,7 @@ php service_finder.php services.csv fr
 ```
 
 ## Tests
-This command line application was creating using test-driven development (TDD) to ensure everything worked as intended. To run the PHPUnit tests yourself, execute the following command:
+This command line application was created using test-driven development (TDD) to ensure everything worked as intended. To run the PHPUnit tests yourself, execute the following command:
 
 ```
 vendor/bin/phpunit tests/service_finder_test.php
