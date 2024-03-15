@@ -1,17 +1,5 @@
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/karisan31/instruct-service-finder.git"
-        }
-    ],
     "require-dev": {
-        "phpunit/phpunit": "*",
-        "your-vendor/your-private-package": "dev-master"
-    },
-    "config": {
-        "github-oauth": {
-            "github.com": "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"
-        }
+        "phpunit/phpunit": "^9.6"
     }
 }
